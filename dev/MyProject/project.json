@@ -1,0 +1,15 @@
+{
+    "project_name": "MyProject",
+    "product_name": "MyProject",
+    "executable_name": "MyProjectLauncher",
+    "modules" : [],
+    "project_id": "{904BEDB0-74F9-4467-9339-165D9E5BC844}",
+
+    "android_settings" : {
+        "package_name" : "com.lumberyard.yourgame",
+        "version_number" : 1,
+        "version_name" : "1.0.0.0",
+        "orientation" : "landscape"
+    }
+
+}
